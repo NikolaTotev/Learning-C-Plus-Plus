@@ -1,0 +1,2 @@
+﻿  Area_Of_Triangle_Project.cpp
+d:\documents\learning\c++\learning-c-plus-plus\area_of_triangle_project\area_of_triangle_project\area_of_triangle_project.cpp(15): error C4700: uninitialized local variable 'a' used

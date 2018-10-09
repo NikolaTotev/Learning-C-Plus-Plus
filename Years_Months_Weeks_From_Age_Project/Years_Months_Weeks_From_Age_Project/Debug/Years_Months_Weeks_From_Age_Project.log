@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Years_Months_Weeks_From_Age_Project.cpp
+d:\documents\learning\c++\learning-c-plus-plus\years_months_weeks_from_age_project\years_months_weeks_from_age_project\years_months_weeks_from_age_project.cpp(15): warning C4101: 'seonds': unreferenced local variable
+  Years_Months_Weeks_From_Age_Project.vcxproj -> D:\Documents\Learning\C++\Learning-C-Plus-Plus\Quadratic_equation\Debug\Years_Months_Weeks_From_Age_Project.exe
