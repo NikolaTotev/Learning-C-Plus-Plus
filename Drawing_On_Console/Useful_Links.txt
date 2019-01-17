@@ -1,0 +1,9 @@
+Drawing pixels:
+https://stackoverflow.com/questions/12378642/c-pixels-in-console-window
+
+Mouse Position/Mouse Actions:
+https://stackoverflow.com/questions/6285270/how-can-i-get-the-mouse-position-in-a-console-program
+https://stackoverflow.com/questions/18318911/detect-if-mouse-button-is-down
+
+Maximizing console:
+https://stackoverflow.com/questions/6606884/setting-console-to-maximized-in-dev-c

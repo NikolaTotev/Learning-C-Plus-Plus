@@ -1,0 +1,3 @@
+﻿  Dynamic_Memory.cpp
+d:\documents\learning\c++\learning-c-plus-plus\c++_structs_dynamic_memory\struct_excersies\dynamic_memory\dynamic_memory.cpp(61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Dynamic_Memory.vcxproj -> D:\Documents\Learning\C++\Learning-C-Plus-Plus\C++_Structs_Dynamic_Memory\Struct_Excersies\Debug\Dynamic_Memory.exe

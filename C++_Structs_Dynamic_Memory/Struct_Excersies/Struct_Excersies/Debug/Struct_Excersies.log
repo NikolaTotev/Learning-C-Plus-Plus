@@ -1,0 +1,5 @@
+﻿  Struct_Excersies.cpp
+d:\documents\learning\c++\learning-c-plus-plus\c++_structs_dynamic_memory\struct_excersies\struct_excersies\struct_excersies.cpp(23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\documents\learning\c++\learning-c-plus-plus\c++_structs_dynamic_memory\struct_excersies\struct_excersies\struct_excersies.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\documents\learning\c++\learning-c-plus-plus\c++_structs_dynamic_memory\struct_excersies\struct_excersies\struct_excersies.cpp(30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Struct_Excersies.vcxproj -> D:\Documents\Learning\C++\Learning-C-Plus-Plus\C++_Structs_Dynamic_Memory\Struct_Excersies\Debug\Struct_Excersies.exe
